@@ -1,2 +1,3 @@
-# cwc_penguins
-Buy and Sell platform using Laravel and Mongodb
+# Penguins Shop
+
+A "Buy and Sell" platform built on Laravel and MongoDB
